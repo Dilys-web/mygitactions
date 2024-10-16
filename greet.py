@@ -3,7 +3,6 @@ def greet_user(name):
 
 def main():
     name = input("Enter your name: ")
-    
     greet_user(name)
 
 if __name__ == "__main__":
