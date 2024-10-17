@@ -1,5 +1,3 @@
-# mygitactions
-
 # GitHub Actions with Super-Linter
 
 ## Overview
